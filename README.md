@@ -1,35 +1,29 @@
 ##
-<h1>Olá! Eu sou <a href="https://github.com/Defcon27">JULIANA</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Olá! Eu sou <a href="https://github.com/Defcon27">PEDRO</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 ### 📬 Onde me encontrar
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianasplopes/)](https://www.linkedin.com/in/julianasplopes)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.julianasouzapl1409@gmail.com)](mailto:defcon.julianasouzapl1409@gmail.com)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Pedromfranca) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pedrohmfranca)](https:// www.linkedin.com/in/pedrohmfranca)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.pedromfranca21@gmail.com)](mailto:defcon. pedromfranca21@gmail.com)
 
 
 ---
 
 ### Um pouco sobre mim... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-Sou professora 🎓, apaixonada por educação e tecnologia, com foco no ensino de Computação e Lógica de Programação.
-Sou uma entusiasta de tecnologia 💻 😃, sempre em busca de aprender, aplicar e ensinar novas ferramentas e conceitos de forma simples e acessível.
-Adoro criar materiais didáticos, projetos práticos e soluções educacionais que tenham propósito e impacto real na aprendizagem dos alunos.
-
+Sou estudante de análise e desenvolvimento de sistemas com foco em transformar ideias em experiências digitais funcionais. Atualmente, dedico meus estudos ao ecossistema Front-end, dominando HTML5, CSS e JavaScript. Busco constantemente unir a lógica de programação com uma estética visual limpa, sempre focado em escrever códigos eficientes e escaláveis.
 ---
 
 ## ⚡️ Alguns fatos rápidos
 
-- 🔭 Atualmente atuo como professora, ensinando Tecnologia, Lógica de Programação e Computação para diferentes níveis de ensino
+- 🔭 Atualmente estou cursando Téc. Desenvolvimento de Sistemas
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Gosto de trabalhar com:
   - 🧠 Lógica de Programação (principalmente com Python)
-  - 📊 Projetos simples de dados e introdução ao BI
   - 🧩 Atividades práticas, desafios e jogos de lógica
   - 🎓 Metodologias ativas e projetos educacionais
-- 📝 Crio materiais didáticos, atividades práticas e projetos voltados para facilitar a aprendizagem
-- 👯 Tenho interesse em colaborar em projetos educacionais, especialmente voltados ao ensino de programação e tecnologia
-- 💬 Pergunte-me sobre Python, Algoritmos, GitHub, Portfólio, Lógica de Programação e Educação Tecnológica
-- 📙Confira meu portfólio/currículo (https://www.linkedin.com/in/julianasplopes/)
-- 🎉 Curiosidade: Amo ❤️ Astrofísica e a SpaceX 🚀 e assisto muitos filmes de Ficção Científica 🎬
+- 👯 Tenho interesse em colaborar em projetos para aprimorar meus conhecimentos
+- 📙Confira meu portfólio/currículo (https://www. www.linkedin.com/in/pedrohmfranca)
+- 🎉 Curiosidade: Gosto de jogar jogos online e sair com amigos
 
 ---
 
@@ -52,3 +46,4 @@ Adoro criar materiais didáticos, projetos práticos e soluções educacionais q
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
+
