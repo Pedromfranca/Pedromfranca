@@ -2,9 +2,9 @@
 <h1>Olá! Eu sou <a href="https://github.com/Defcon27">PEDRO</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 ### 📬 Onde me encontrar
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Pedromfranca) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pedrohmfranca)](https:// www.linkedin.com/in/pedrohmfranca)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.pedromfranca21@gmail.com)](mailto:defcon. pedromfranca21@gmail.com)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Pedromfranca/)](https://github.com/Pedromfranca/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohmfranca/)](https://www.linkedin.com/in/pedrohmfranca)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedromfranca21@gmail.com)](mailto:pedromfranca21@gmail.com)
 
 
 ---
